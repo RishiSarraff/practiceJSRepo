@@ -1,8 +1,3 @@
 # Menu Practice Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This is a mini project to build a Menu using React, Javascript, HTML/CSS. Using a predetermined set of foods, I created a small webpage application tracking added and removed orders, vegetarian and non-vegetarian menu, and CSS styling for the page. 
